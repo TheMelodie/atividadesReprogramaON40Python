@@ -1,1 +1,2 @@
-repositório de notebooks que fiz enquanto estudava python na reprograma e notebooks de aulas
+#atividadesReprogramaON40Python
+Repository of notebooks I made while studying Python at Reprograma and class notebooks.
